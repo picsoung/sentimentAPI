@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+gem 'rack'
+gem 'json'
+gem 'grape','~>0.6.1'
+gem 'thin', '~>1.5.0'
+gem '3scale_client'
+gem 'nokogiri'
+gem 'rake'
+gem 'unicorn'
+gem 'capistrano'
